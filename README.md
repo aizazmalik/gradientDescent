@@ -1,5 +1,5 @@
-# gradientDescent
-Gradient Descent Algorithm Implemented in Python
+# Gradient Descent in Python
+Gradient Descent Algorithm Implemented in Python (for Linear Regression)
 
 This is a complete code of gradient descent algorithm implemented in Python. This code is for predicting the car price based upon 9 features provided as input.
 
